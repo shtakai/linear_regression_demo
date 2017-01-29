@@ -11,7 +11,10 @@ y_values = dataframe[['Body']]
 body_reg = linear_model.LinearRegression()
 body_reg.fit(x_values, y_values)
 
+print (body_reg.predict([[127], [248]]))
+
 #visualize results
 plt.scatter(x_values, y_values)
 plt.plot(x_values, body_reg.predict(x_values))
 plt.show()
+
