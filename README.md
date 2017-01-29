@@ -1,3 +1,8 @@
+# on my emvironment(ubuntu 16.04/python 3.5.2)
+```terminal
+use requiment_by_hand.txt
+```
+
 # linear_regression_demo
 This is the code for "How to Make a Prediction - Intro to Deep Learning #1' by Siraj Raval on YouTube
 
@@ -11,7 +16,7 @@ This is the code for [this](https://youtu.be/vOppzHpvTiQ) video by Siraj Raval o
 * matplotlib
 
 You can just run
-`pip install -r requirements.txt` 
+`pip install -r requirements.txt`
 in terminal to install the necessary dependencies. Here is a link to [pip](https://pip.pypa.io/en/stable/installing/) if you don't already have it.
 
 ##Usage
