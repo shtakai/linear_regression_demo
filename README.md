@@ -1,4 +1,7 @@
 # on my emvironment(ubuntu 16.04/python 3.5.2)
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/linear_regression_demo.svg)](https://www.guardrails.io)
+
 ```terminal
 use requiment_by_hand.txt
 ```
